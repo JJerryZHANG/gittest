@@ -5,3 +5,5 @@ HAHAHA
 I want to dev
 
 Creating a new branch is quick AND simple.
+
+fix a bug
